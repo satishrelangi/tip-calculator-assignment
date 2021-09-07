@@ -1,0 +1,14 @@
+.custDiv{
+    width: 100%;
+    height: 30vh;
+    border-bottom: 1px solid black;
+}
+.custInnDiv{
+    height: 70%;
+    overflow-y: scroll;
+}
+.custHead{
+    text-align: center;
+    font-weight: normal;
+    background-color: rgba(0, 0, 0, 0.05);
+}

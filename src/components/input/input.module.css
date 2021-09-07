@@ -1,0 +1,33 @@
+.inpDiv{
+    margin-top: 35px;
+    text-align: center;
+    align-items: center;
+}
+
+#bill{
+    width: 60%;
+    height: 25px;
+    margin-top: 35px;
+}
+hr{
+    width: 98%;
+    height: 0.5px;
+    background-color: grey;
+    margin: 50px auto;
+}
+#opt{
+    margin-left: 15px;
+    padding: 5px 10px;
+}
+.customer{
+    padding: 3px 10px;
+    margin: 15px;
+}
+
+.btn{
+    background-color:dodgerblue;
+    border: none;
+    padding: 5px 15px;
+    color: white;
+    font-weight: 700;
+}

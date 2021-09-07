@@ -1,0 +1,35 @@
+.totalDiv{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.totalh2{
+    margin: 0;
+    padding: 8px 25px;
+    display:inline-block;
+    background-color:forestgreen;
+    color: white;
+    font-size: 20px;
+    font-weight: normal;
+    border: 1px solid transparent;
+}
+table{
+    width: 100%;
+}
+.totalCustomer{
+    width: 75%;
+    border: none;
+}
+.totalTips{
+    border-left: 1px solid black;
+    width: 25%;
+}
+
+.footer{
+    margin: 0;
+    padding: 4px 0;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-weight: normal;
+}
